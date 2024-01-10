@@ -22,10 +22,10 @@
 - MLflow, Amazon Web Services
 
 ## Education
-- Bachelor of Mathematics, Major in Statistics and Minor in Computing | University of Waterloo (_Sep. 2018 - Apr. 2022_)								       		
+Bachelor of Mathematics, Major in Statistics and Minor in Computing | University of Waterloo (_Sep. 2018 - Apr. 2022_)								       		
 
 ## Work Experience
-**Associate Software Developer (_June 2022 - August 2023_)**
+**Associate Software Developer at Infosys Limited, Canada(_June 2022 - August 2023_)**
 - Built and managed RESTful API for an E-commerce website using Java and Spring framework.
 - Demonstrated frontend development to build user interfaces using JavaScript, Bootstrap and ReactJS.
 - Utilized Jenkins to provide a continuous integration service to automate the entire process of loading the latest build code and test files, running the tests, and generating a report of the results once per day.
