@@ -15,11 +15,10 @@
     />
 </a>
 
-### Technical Skills: 
-- Python, R, Flask, Django, Keras, Tensorflow, PyTorch
-- MySQL, PostgreSQL, MongoDB
-- Tableau, PowerBI, Microsoft Excel
-- MLflow, Amazon Web Services
+## Technical Skills: 
+- _Programming Language:_ Python, R, Java, SQL, JavaScript
+- _Tools/Frameworks:_ PyTorch, Amazon Web Services, Tableau, PowerBI, Dockers, Microsoft Excel, CI/CD using Jenkins, LLMs
+- _Databases:_ MySQL, PostgreSQL, NoSQL with MongoDB
 
 ## Education
 Bachelor of Mathematics, Major in Statistics and Minor in Computing | University of Waterloo (_Sep. 2018 - Apr. 2022_)								       		
